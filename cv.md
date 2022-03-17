@@ -38,3 +38,16 @@ function toCamelCase(str){
   return newWordArr.join("");
 }
 ```
+## Education and courses:
+* **Institute**: Eurasian Open Institute
+   * Computer science in economics
+*  **Courses**
+    * [HTML Academy](https://htmlacademy.ru/profile/id979133): Html, Css, JavaScript
+    * [Sololearn](https://www.sololearn.com/Certificate/1082-21633543/jpg/): jQuery course
+    * [Worldskills](https://sp.dp.worldskills.ru/d874526f-5c1f-44e2-a566-d5d6332628a3): Web application security analysis
+    * [Coursera](https://www.coursera.org/professional-certificates/google-it-support): Google IT support
+    * [Analytics Academy](https://analytics.google.com/analytics/academy/certificate/63QRsqkRSPy6KEwayOnrVg): Google Analytics for Beginners
+
+## Language:
+* **Russian** - native speaker
+* **English** - level A1
