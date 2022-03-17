@@ -14,3 +14,27 @@ I want to become a web developer. I think that studying at **RSschool** will hel
 - JavaScript
 - Git
 - Linux
+
+## Code example:
+```javascript
+function toCamelCase(str){
+  let delimeter = str.search(/(-|_)/g);
+  let wordArr = str.split(delimeter);
+  let newWordArr =[];
+
+    wordArr.forEach((word, index) => {
+      let charArr = word.split("");
+      if (index == 0 && word[0][0] == word[0].toLowerCase())
+      {
+         charArr[0] = word[0].toLowerCase();
+      }
+      else
+      {
+        charArr[0] = word[0].toUpperCase();
+      }
+      newWordArr.push(charArr.join(""));
+    });
+
+  return newWordArr.join("");
+}
+```
